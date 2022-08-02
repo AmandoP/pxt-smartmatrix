@@ -6,7 +6,6 @@
         "core": "*",
         "radio": "*",
         "neopixel": "github:MKleinSB/pxt-neopixel-calliope",
-        "microphone": "*"
     },
     "files": [
         "README.md",
